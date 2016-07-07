@@ -14,6 +14,6 @@ int function(int a, int b, int c, int d, int e, int f, int g)
 int main()
 {
 	int res = function(1,2,3,4,5,6,7);
-	printf("El resultado de la operacion es %4d .\n",res);
+	//printf("El resultado de la operacion es %4d .\n",res);
     return 0;
 }
